@@ -26,7 +26,7 @@ public class TeamMemberLogger {
 	}
 
 	private void loadMemberB() {
-		
+		this.members.add(new TeamMember("Annette", "Becker"));
 	}
 
 	private void loadMemberA() {

@@ -26,11 +26,11 @@ public class TeamMemberLogger {
 	}
 
 	private void loadMemberB() {
-		this.members.add(new TeamMember("Annette", "Becker"));
+		this.members.add(new TeamMember("Claudia", "Becker"));
 	}
 
 	private void loadMemberA() {
-		this.members.add(new TeamMember("Jesiisc", "Wrobel"));
+		this.members.add(new TeamMember("Kevin", "Schmitt"));
 	}
 
 	private void doLog() {
